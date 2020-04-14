@@ -6,7 +6,7 @@ body {
   margin: 0;
   padding: 0;
   font: 1em/1.5em "Open Sans", sans-serif;
-  background-color: #4c8bf5;
+  background-color: #ef7300;
   color: #fff;
 }
 
@@ -56,7 +56,7 @@ main img {
 }
 
 main p {
-  width: 30rem;
+  width: 40rem;
   max-width: 80%;
   margin: 0 auto 1rem;
 }
@@ -84,7 +84,7 @@ main p {
 }
 
 .social li a:hover {
-  color: #4c8bf5;
+  color: #ef7300;
 }
 
 .social li a::before {
